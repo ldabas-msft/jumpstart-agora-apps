@@ -20,7 +20,7 @@ spec:
   values:
     acr_name: agacr8be1e
     branch_name: "production"
-    image_tag: v1.0
+    image_tag: v1.1
     github_User: ldabas-msft
     queue_monitoring_frontend:
       live_view_enabled: "False"
